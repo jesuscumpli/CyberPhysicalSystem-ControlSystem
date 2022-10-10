@@ -1,0 +1,5 @@
+/venv
+/encryption/PRIVATE_KEY
+/encryption/PUBLIC_KEY
+.idea
+*.idea
